@@ -1,12 +1,58 @@
 ## Graph Explanations
 
-### Participation mix by country
+
+### Graph 1: Participation mix by country, regression analysis
 #### Northern Hemisphere Olympic Participation
+#### Graph: Scatterplot, Includes countries that attend both winter and summer olympics (=2), and countries that only attend summer games (=1).
+#### Notes: The metric is 
+#### Observations: 
+1. The bulk of the countries that attend only the summer olympics are below 30 degrees latitude (below Florida). Those countries will be excluded from the remainder of the graphs.
+2. There are a few countries in higher latitudes that only attend summer, and a few countries in lower latitudes (<30) that attend both.
+
+![Participation mix by country](output/northern_output3.png)
+
+### Graph 2: Participation mix by country, boxplot
+#### Northern Hemisphere Olympic Participation
+#### Graph: Scatterplot, Includes countries that attend both winter and summer olympics (=2), and countries that only attend summer games (=1).
+#### Notes: The metric is 
+#### Observations: 
+1. The bloxplot is a clearer way to show the differences bewteen countries who only attend summer, vs. countries that attend both
+2. Without even conducting a statistical test, we can see the median of the "both" group doesn't even overlap the boxplot of the "summer only" group
+![Participation mix by country](output/northern_output4.png)
+
+### Graph 3: Participation mix by country
+#### Northern Hemisphere Olympic Participation
+#### Graph: Dotplot by longitude and latitude; only countries that attend both winter and summer olympics
 #### Notes: The metric is the percent of their athletes that attent summer olympics. The purpose of the metric is to show the degree that a country sends more or less of their athletes to the winter or summer olympics.
 #### Observations: 
-1. With a median percentage of 90%, most countries send the bulk of their athletes to the summer olympics. However, countries in the far northern latitudes send a much more balanced mix of athletes to the olympics, with the percent of their athletes attending summer ranging from 35 to 70%.
-2. 
+1. With a median percentage of 90%, most countries send the bulk of their athletes to the summer olympics.
+2.  However, countries in the far northern latitudes send a much more balanced mix of athletes to the olympics, with the percent of their athletes attending summer ranging from 35 to 70%.3. 
 
-![Participation mix by country](output/northern_output.png)
+![Participation mix by country](output/northern_output1.png)
+
+### Graph 4: Participation mix by country, regression analysis
+#### Northern Hemisphere Olympic Participation
+#### Graph: Dotplot by latitude and percent of the country's athletes that attend summer olympics; only countries that attend both winter and summer olympics
+#### Notes: The metric is the percent of their athletes that attent summer olympics. The purpose of the metric is to show the degree that a country sends more or less of their athletes to the winter or summer olympics.
+#### Observations: 
+1. For countries below 30 degrees latitude, (i.e. below the southern tip of Florida) participation in the winter olympics drops off considerably
+2. In spite of the sharp, non-linear decline in the datapoints < 30 degrees latitude, the linear regression results are significant (p<.05).
+
+![Participation mix by country](output/northern_output2.png)
 
 
+
+
+
+
+
+
+![Participation mix by country](output/northern_output5.png)
+
+
+
+![Participation mix by country](output/northern_output6.png)
+
+
+
+![Participation mix by country](output/northern_output7.png)
