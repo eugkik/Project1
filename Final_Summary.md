@@ -67,7 +67,7 @@
 2. Relative to Summer, a much more balanced spread, with a majority of countries falling between 5 and 15 %.
 3. With an r value of 0.267, the correlation of Average Gold % to Latitude is stronger than summer, but still relatively weak.
 
-(Insert Graph)
+![Participation mix by country](output/winter_gold.png)
 
 
 ### Main Findings for Queston 3
