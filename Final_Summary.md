@@ -58,7 +58,7 @@
 2. USA has a much larger average Gold % than the rest of the World, with no other countries breaking 12%.
 3. The r value is 0.151 showing  a weak positive correlation when we were really expecting a negative correlation.
 
-(Insert Graph)
+![Participation mix by country](output/summer_gold.png)
 
 ### Chart 2: Winter Olympics: Average Gold% vs. Latitude for Northern Hemisphere
 
