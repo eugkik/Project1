@@ -38,7 +38,7 @@
 1. With the exception of the outlier, the USA, the majority of medal winning countries are above 30 degrees latitude and have won less than 7% of medals.
 2. There is a very weak, positive correlation between latitude and medals won.
 
-![Participation mix by country](output/summer-latitude performance.png)
+![Participation mix by country](output/summer-latitude%20performance.png)
 
 ### Chart 2: Olympic Performance by Latitude: Winter
 #### Northern Hemisphere Countries
@@ -48,7 +48,7 @@
 2. There is only one medal winning country below 35 degrees latitude during the winter olympics.
 3. The regression analys was not significant, likely due to the low win rate in general, and the low to no win rate for lower latitude countries.
 
-![Participation mix by country](output/winter-latitude performance.png)
+![Participation mix by country](output/winter-latitude%20performance.png)
 
 ### Main Findings for Question 2
 1. A majority of questions that have competed in the olympics have not won a medal.
