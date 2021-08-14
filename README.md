@@ -18,4 +18,4 @@
 
 
 ## D. Final Summary md File
-###  This is our final summary write up for our questions and plots.
+###  This is the final summary write up for our questions and plots.
