@@ -33,7 +33,7 @@
 4.  Significant correlation was found between latitude and the % of summer athletes among all athletes sent to the olympics.
 
 
-### Question 2: Does the country’s latitude impact total number of medals won over time?
+### Question 2: Does the country’s latitude impact all-time total number of medals won?
 
 ### Chart 1: Olympic Performance by Latitude: Summer
 #### Northern Hemisphere Countries
@@ -61,7 +61,7 @@
 4. Overall, not a very strong correlation between total medals won over time and latitude. There are probably other variables at play including number of times countries have participated in the olympics. population size, economic status of country, and investment into the athletes.
 
 
-### Question 3: Does the country’s latitude impact average gold medal win percentage over time?
+### Question 3: Does the country’s latitude impact all-time average gold medal win percentage?
 
 ### Chart 1: Summer Olympics: Average Gold % vs. Latitude for Northern Hemispshere
 
