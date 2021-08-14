@@ -26,6 +26,8 @@
 
 ![Participation mix by country](output/northern_output2.png)
 
+### Main Findings for Question 1
+
 
 ### Question 2: Does the country’s latitude impact total number of medals won over time?
 
