@@ -36,5 +36,42 @@
 1. With the exception of the outlier, the USA, the majority of medal winning countries are above 30 degrees latitude and have won less than 7% of medals.
 2. There is a very weak, positive correlation between latitude and medals won.
 
-![Participation mix by country](output/summer-latitude performance.png)
+(Insert Graph)
 
+### Chart 2:Olympic Performance by Latitude: Winter
+#### Northern Hemisphere Countries
+
+#### Observations:
+1. Generally, most of the medals are won by countries greater than 35 degrees latitude( North Carolina ~ 35 for reference)
+2. There is only one medal winning country below 35 degrees latitude during the winter olympics.
+3. The regression analys was not significant, likely due to the low win rate in general, and the low to no win rate for lower latitude countries.
+
+(Insert Graph)
+
+
+### Question 3: Does the country’s latitude impact average gold medal win percentage over time?
+
+### Chart 1: Summer Olympics: Average Gold % vs. Latitude for Northern Hemispshere
+
+#### Observations
+1. Majority of countries fall withing the 1-2% regardless of latitude.
+2. USA has a much larger average Gold % than the rest of the World, with no other countries breaking 12%.
+3. The r value is 0.151 showing  a weak positive correlation when we were really expecting a negative correlation.
+
+(Insert Graph)
+
+### Chart 2: Winter Olympics: Average Gold% vs. Latitude for Northern Hemisphere
+
+#### Observations
+1. Relative to Summer, countries are on much higher latitudes, with all byt one above 30 degrees.
+2. Relative to Summer, a much more balanced spread, with a majority of countries falling between 5 and 15 %.
+3. With an r value of 0.267, the correlation of Average Gold % to Latitude is stronger than summer, but still relatively weak.
+
+(Insert Graph)
+
+
+### Main Findings for Queston 3
+
+1.No correlation that countries near the equator perform better in the summer olympics. Small correlation towards the opposite.
+2. While winter data has a slighlty stronger correlation between Gold % and latitude, the correlation is still fairly week.
+3. Overall, the correlation between latitude and gold % isn't strong and there are probably other varaibles at play such as population size, economic status of country, and investment in the atheletes.
