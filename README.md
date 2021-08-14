@@ -19,3 +19,6 @@
 
 ## D. Final Summary md File
 ###  This is the final summary write up for our questions and plots.
+
+## E. Project 1_Olympics PDF
+### This is the slide deck of our final presentation.
