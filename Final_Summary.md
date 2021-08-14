@@ -36,9 +36,9 @@
 1. With the exception of the outlier, the USA, the majority of medal winning countries are above 30 degrees latitude and have won less than 7% of medals.
 2. There is a very weak, positive correlation between latitude and medals won.
 
-(Insert Graph)
+![Participation mix by country](output/summer-latitude performance.png)
 
-### Chart 2:Olympic Performance by Latitude: Winter
+### Chart 2: Olympic Performance by Latitude: Winter
 #### Northern Hemisphere Countries
 
 #### Observations:
