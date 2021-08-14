@@ -49,8 +49,8 @@
 ![Participation mix by country](output/winter-latitude performance.png)
 
 ### Main Findings for Question 2
-1.A majority of questions that have competed in the olympics have not won a medal.
-2.All but one of the winners for medals in the winter olympics are above the 30 degree latitude.
+1. A majority of questions that have competed in the olympics have not won a medal.
+2. All but one of the winners for medals in the winter olympics are above the 30 degree latitude.
 3. The summer correlation is actually for higher latitude countries which is the opposite of what we expected. No sign that countries closer to the equater have an advantage.
 4. Overall, not a very strong correlation between total medals won over time and latitude. There are probably other variables at play including number of times countries have participated in the olympics. population size, economic status of country, and investment into the athletes.
 
