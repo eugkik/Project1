@@ -17,5 +17,5 @@
 ### This file includes all of the outputs that we presented as well as the outputs that we created during our exploration phase. Ended up not being able to present all of the different original questions that we came up with as we explored the data.
 
 
-##4. graph_explanations md file
-###  This is our write up describing our findings.
+##4. Final Summary md File
+###  This is our final summary write up for our questions and plots.
