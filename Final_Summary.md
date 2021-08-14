@@ -27,6 +27,10 @@
 ![Participation mix by country](output/northern_output2.png)
 
 ### Main Findings for Question 1
+1. Overall, there is much more variation in population size and latitude corrdinates for the countries that participate in both olympics. The countries that only participate in the summer olympics are all small populaitons located near the equator.
+2.  Only one country sends more athletes to the winter olympics than the summer olympics.
+3.  As you move south of 30 degrees of latitude, close to 100% of the athletes being sent to the olympics are competing during the summer olympic season.
+4.  Significant correlation was found between latitude and the % of summer athletes among all athletes sent to the olympics.
 
 
 ### Question 2: Does the country’s latitude impact total number of medals won over time?
